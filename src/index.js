@@ -35,7 +35,7 @@ loadPage();
 //Get "content" div from "index.html"
 let content = document.getElementById("content");
 
-//Eventlisteners
+//Add eventlisteners
 document.addEventListener("click", function(e){
     let targetId = e.target.id;
     console.log("This is what ya clicked: " + targetId);
