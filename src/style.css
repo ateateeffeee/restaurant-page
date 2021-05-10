@@ -1,0 +1,19 @@
+#navDiv {
+    display: inline;
+
+    margin-left: 45%;
+    margin-top: 0%;
+
+    top: 0px;
+
+    position: fixed;
+
+    background-color: red;
+
+    z-index: 10;
+}
+
+.tabs {
+    display: inline;
+    padding: 10px;
+}
