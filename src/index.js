@@ -4,7 +4,7 @@ import {loadContact} from './contactPage';
 
 //Important note to self:
 //Front forward slash is taken out all links to work on gh-pages
-    //Put them back in to run locally
+    //Put them back in to run locally.
 
 //Create tabs
 let navDiv = document.createElement("DIV");
