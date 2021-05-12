@@ -5,6 +5,8 @@ import {loadContact} from './contactPage';
 //Important note to self:
 //Front forward slash is taken out all links to work on gh-pages
     //Put them back in to run locally.
+    //This didn't work.
+//Figure out how to get CSS and images to work on github boi.
 
 //Create tabs
 let navDiv = document.createElement("DIV");
