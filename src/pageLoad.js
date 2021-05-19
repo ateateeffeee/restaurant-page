@@ -16,7 +16,7 @@ export function loadPage() {
 
     //Add image
     let image = document.createElement("IMG");
-    image.src = '/src/Images/burnt pizza.png';
+    image.src = '/dist/Images/burnt pizza.png';
     homeDiv.appendChild(image);
 
     //Add text
