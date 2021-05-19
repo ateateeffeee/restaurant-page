@@ -1,0 +1,57 @@
+#navDiv {
+    display: inline;
+
+    margin-left: 45%;
+
+    top: 0px;
+
+    position: fixed;
+
+    background-color: white;
+
+    z-index: 10;
+
+    border: solid;
+    border-width: 1px;
+
+    padding: 10px;
+}
+
+#contactDiv {
+    margin-top: 150px;
+    margin-left: 15%;
+
+    border: solid;
+
+    padding: 10px;
+
+    width: 625px;
+}
+
+#menuDiv {
+    margin-top: 50px;
+    margin-left: 35%;
+
+}
+
+#homeDiv {
+    margin-top: 50px;
+    margin-left: 15%;
+
+}
+
+.tabs {
+    display: inline;
+    padding: 10px;
+}
+
+.tabs:hover {
+    text-decoration: underline;
+
+    cursor: pointer;
+}
+
+.menuImages {
+    height: 300px;
+    
+}
