@@ -18,7 +18,8 @@ export function loadMenu () {
     menuItem1Div.appendChild(item1Name);
     //Adds image to div
     let image1 = document.createElement("IMG");
-    image1.src = '/dist/Images/Burnt Pep.jpg';
+    image1.src = 'Images/Burnt Pep.jpg';
+    image1.alt = 'Lightly charred pepperoni';
     //image1.width = "300"; //Temp property
     image1.className = "menuImages";
     menuItem1Div.appendChild(image1);
@@ -34,7 +35,8 @@ export function loadMenu () {
     menuItem2Div.appendChild(item2Name);
 
     let image2 = document.createElement("IMG");
-    image2.src = '/dist/Images/Pastrami.jpg';
+    image2.src = 'Images/Pastrami.jpg';
+    image2.alt = "Papa Pat's Poached Pastrami";
     //image2.width= "300"; //Temp Property
     image2.className = "menuImages";
     menuItem2Div.appendChild(image2);
